@@ -2,7 +2,7 @@
 title: Bootstrap
 localeTitle: Oreja
 ---
-## Oreja
+## Introducción
 
 Bootstrap es un framework de front-end popular para el desarrollo web. Contiene componentes pre-construidos y elementos de diseño para estilizar el contenido HTML. Los navegadores modernos como Chrome, Firefox, Opera, Safari e Internet Explorer son compatibles con Bootstrap.
 
